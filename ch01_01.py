@@ -1,4 +1,6 @@
 # White square
+import sys
+input = sys.stdin.readline
 
 count = 0   # 하얀칸 위에 말의 개수
 

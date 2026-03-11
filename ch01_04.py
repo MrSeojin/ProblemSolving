@@ -1,4 +1,6 @@
 #문자열 폭발
+import sys
+input = sys.stdin.readline
 
 S = input()
 boom = input()
