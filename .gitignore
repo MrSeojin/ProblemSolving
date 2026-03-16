@@ -15,5 +15,5 @@ __pycache__/
 ### PyCharm Patch ###
 # Comment Reason: https://github.com/joeblau/gitignore.io/issues/186#issuecomment-215987721
 
-
-/.idea
+### Visual Studio ###
+/CT_Projects/.vs
