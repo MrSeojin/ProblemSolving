@@ -1,4 +1,4 @@
-#십자말 풀이;l;
+# 십자말 풀이;l;
 import sys
 input = sys.stdin.readline
 
